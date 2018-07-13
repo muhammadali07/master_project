@@ -1,0 +1,83 @@
+.badge {
+    border-radius: 12px !important;
+    font-size: 11px !important;
+    font-weight: 300;
+    height: 18px;
+    padding: 3px 6px;
+    text-align: center;
+    text-shadow: none !important;
+    vertical-align: middle;
+} 
+.badge-success {
+    background-color: #45b6af;
+    background-image: none;
+    }
+.badge-danger {
+    background-color: #f3565d;
+    background-image: none;
+}
+.danger-icon{
+    color: #f3565d;
+}
+ 
+.portlet {
+    border-radius: 4px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+	
+.portlet > .portlet-title > .nav-tabs {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    display: inline-block;
+    float: right;
+    margin: 0;
+} 
+div, input, select, textarea, span, img, table, label, td, th, p, a, button, ul, code, pre, li {
+    border-radius: 0 !important;
+}
+.portlet > .portlet-body.grey-cascade, .portlet.grey-cascade {
+    background-color: #95a5a6;
+}
+.portlet.box.grey-cascade { 
+    border-color: #b1bdbd  !important;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+}
+
+.portlet.box > .portlet-title {
+    border-bottom: 0 none;
+    color: #fff;
+    margin-bottom: 0;
+    padding: 0 10px;
+}
+.portlet.box > .portlet-body {
+    background-color: #fff;
+    padding: 10px;
+}
+.portlet > .portlet-body {
+    border-radius: 0 0 4px 4px;
+    clear: both;
+} 
+.portlet > .portlet-title > .nav-tabs > li > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #fff;
+    margin: 5px 0 0 1px;
+    padding: 8px 12px;
+}
+.portlet > .portlet-title > .nav-tabs > li.active > a, .portlet > .portlet-title > .nav-tabs > li:hover > a {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    color: #333;
+}
+.nav-tabs > li > a, .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+    font-size: 14px;
+}
+.nav-tabs > li > a, .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+    font-size: 14px;
+}

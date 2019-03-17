@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Berakhlak.", "Berdedikasi.", "Berilmu.", "Keluarga Kedua.", "Bengkel Siswa"],
+      strings: ["Berakhlak.", "Berdedikasi.", "Berilmu.", "Berdikari.", "Tangguh"],
       typeSpeed: 100,
       loop: true,
     });

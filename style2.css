@@ -100,10 +100,10 @@ p {
 .btn {
   background: #3399ff;
   border: medium none;
-  border-radius: 20px;
+  border-radius: 30px;
   color: #fff;
   font-size: 12px;
-  height: 40px;
+  height: 50px;
   line-height: 50px;
   padding: 0 30px;
   text-transform: uppercase;
@@ -462,6 +462,7 @@ nav ul li a {
 
 #journal .journal-block .journal-info {
   position: relative;
+  border-radius: 50%;
 }
 
 .journal-block .journal-info img {
@@ -503,7 +504,7 @@ nav ul li a {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  
+/*
 
 /*-----------------------------------------------------------------------------------*/
 #contact {
